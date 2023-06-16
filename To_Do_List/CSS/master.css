@@ -1,0 +1,47 @@
+ body
+{
+    font-family:'Times New Roman', Times, serif;
+    background-color: lightgoldenrodyellow;
+}
+li{ list-style-type: none;}
+form
+{
+    font-size: 200%;
+    inline-size:fit-content;
+    margin: auto;
+    padding: 5px;
+    color: #0e81ab;
+}
+
+
+input[type=button]:hover, input[type=submit]:hover {cursor: pointer;}
+
+
+input[type=text] , input[type=password] , textarea
+{
+    font-size: 90%;
+    margin:5px;
+    color:  rgb(126, 43, 43);
+    border: 2px rgb(126, 43, 43) solid;
+    
+}
+input[type=button], input[type=submit]
+{
+    background-color: #2ea4d0bb;
+    font-size: 80%;
+    font-family:'Times New Roman', Times, serif;
+    color: rgb(126, 43, 43);
+    border: 3px rgb(126, 43, 43)  solid;
+
+}
+span
+{
+    color:red;
+    font-size: 20px;
+}
+
+.Cr
+{
+    color: #0e81ab;
+    font-size: 20px;
+}
